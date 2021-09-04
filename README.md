@@ -8,7 +8,7 @@ This project will parse your xml json of specified format to view
 
 ## Contributions 
 Contributions, issues and feature requests are welcome.
-Feel free to check [issues](https://github.com/UmairAnjum86/Quiz-App/issues "issues") page if you want to contribute.
+Feel free to check [issues](https://github.com/umair-anjum/SVG-to-Path/issues "issues") page if you want to contribute.
 
 ## About Me
 My name is Umair Anjum, I am Android Engineer at Content Arcade Pakistan. I have expertise in Native Android | Android | Java | Kotlin | Javascript | MVVM | MVP | RxJava | Dagger | Material Design | Live Data | Data Binding.
